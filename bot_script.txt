@@ -1,0 +1,2 @@
+nums <- sample(10000, 100)
+write(nums, "sample_nums.txt")
